@@ -1,2 +1,2 @@
-# car-workshop
+# carworkshop
 Project created to learn design patterns
