@@ -1,2 +1,2 @@
-# carworkshop
-Project created to learn design patterns
+# Car-workshop
+Projekt stworzony w celu zapoznania się z wzorcami projektowymi.
